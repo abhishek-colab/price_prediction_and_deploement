@@ -29,7 +29,7 @@ This project is a complete machine learning pipeline designed to predict the **a
 ├── requirements/
 │   ├── data_prep_modeling.ipynb   # Data cleaning, EDA, model training
 │   ├── price_report.html             # Pandas profiling report
-|   |__ mobile_price_stacked.pickle
+|   |__ mobile_price_stacked.pickle # Download the pickle file and place it here (https://drive.google.com/file/d/1hshIgOPKBTgZyW7hUb3OInisjnkOnzv8/view?usp=sharing)
 ├── server/
 │   ├── server.py                # Model loading and prediction logic
 │   ├── util.py                            # API server for predictions
